@@ -4,7 +4,7 @@ Tested with python 2.4.4, should run on all 2.x versions.
 
 Tested on windows, should be easy to use as a linux version with few modifications.
 
-WARNING: THis script is only experimental, use at your own risk. 
+WARNING: This script is only experimental, use at your own risk. 
 
 Quickstart:
 ----------
@@ -19,7 +19,7 @@ Use Ctrl-C to stop the server.
 Copyright:
 ---------
 
-Please respect the copyright of pyftpdlib, see the license file in ./pyftpdlib/
+Please respect the copyright of pyftpdlib, see the license file in "./pyftpdlib/".
 
-"ftpserver.py" itself is free to copy.
+The script "ftpserver.py" itself is free to copy, but without any guarantee.
 
