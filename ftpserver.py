@@ -20,6 +20,7 @@ authorizer.add_user(username, password, "./data", perm="elradfmw")
 #authorizer.add_anonymous(".")
 ftp_handler = ftpserver.FTPHandler
 ftp_handler.authorizer = authorizer
-address = ("127.0.0.1", 21)
+#address = ("127.0.0.1", 21) # listen only on localhost
+address = ("", 21) # listen on all interfaces
 ftpd = ftpserver.FTPServer(address, ftp_handler)
 ftpd.serve_forever()
