@@ -23,3 +23,9 @@ Please respect the copyright of pyftpdlib, see the license file in "./pyftpdlib/
 
 The script "ftpserver.py" itself is free to copy, but without any guarantee.
 
+
+Motivation:
+----------
+
+Sometimes I need a quick and easy way to copy files between linux and nt machines in local networks. 
+This script comes handy when samba is not installed on the linux machine. 
