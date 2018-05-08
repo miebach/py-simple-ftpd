@@ -4,7 +4,7 @@ Tested with python 2.4.4, should run on all 2.x versions.
 
 Tested on windows, should be easy to use as a linux version with few modifications.
 
-WARNING: This script is only experimental, use at your own risk. 
+WARNING: This script is only experimental, no security at all, and btw. don't use FTP for anything.
 
 Quickstart:
 ----------
@@ -21,11 +21,10 @@ Copyright:
 
 Please respect the copyright of pyftpdlib, see the license file in "./pyftpdlib/".
 
-The script "ftpserver.py" itself is free to copy, but without any guarantee.
+This project has  "ftpserver.py" itself is MIT licenced, see file ./ LICENCE without any guarantee at all.
 
 
 Motivation:
 ----------
 
-Sometimes I need a quick and easy way to copy files between linux and nt machines in local networks. 
-This script comes handy when samba is not installed on the linux machine. 
+If you need a quick and easy way to copy files between linux and nt machines in secured environemnts.
